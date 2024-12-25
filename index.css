@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: red
+    
+}
+
+.outerdiv{
+    margin: 50px;
+    padding-top: 10px;
+}
+
+.innerdiv1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:red;
+    margin: 300px;
+    padding: 5vh;
+}
+
+
+.innerdiv2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5vh;
+    background-color: rgb(72, 188, 93);
+}
