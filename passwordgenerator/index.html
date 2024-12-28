@@ -4,8 +4,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Password - generator</title>
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    
+    <div class="passwordgenerator">
+        <div class="main">
+            <div class="heading">
+                <h2>Password Generator</h2>
+            </div>
+            <div class="inputoperation">
+                <input type="text" oncopy= "myFunction()" value="Try to copy this text" >
+                <img src="photos/copy.svg" alt="" srcset="">    
+
+            </div>
+            <div class="checkpoint">
+                <h3>Password-Length</h3>
+                <div class="checkbox1">
+                    <h6>Include Lowercase Letter(a-z)</h6>
+                    <input type="checkbox" id="lowercase" name="lowercase" value="">
+                </div>
+                <div class="checkbox2">
+                    <h6>Include Uppercase Letter(A-Z)</h6>
+                    <input type="checkbox" id="uppercase" name="uppercase" value="">
+                </div>
+                <div class="checkbox3">
+                    <h6>Include Number(0-9)</h6>
+                    <input type="checkbox" id="number" name="number" value="">
+                </div>
+                <div class="checkbox4">
+                    <h6>Include Symbol(@-*)</h6>
+                    <input type="checkbox" id="symbol" name="symbol" value="">
+                </div>
+            </div>
+            <div class="button">
+                <h3>Generate Password</h3>
+            </div>
+        </div>
+    </div>
+    <script src="index.js"></script>
 </body>
 </html>

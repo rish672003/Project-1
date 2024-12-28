@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+body{
+  background: linear-gradient(45deg, blue,pink);  
+}
+
+.passwordgenerator{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:-o-linear-gradient(45deg, rgb(175, 108, 108), rgb(243, 5, 45));
+    margin: 195px;
+    padding: 5vh;
+    height: fit-content;
+    background-color: red;
+
+}
