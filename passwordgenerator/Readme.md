@@ -51,7 +51,7 @@ You can run this project locally on your computer by following these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/rish672003/password-generator.git
    ```
 
 2. Navigate to the project directory:
@@ -88,7 +88,7 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 1. Fork this repository
 2. Clone your forked repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/rish672003/password-generator.git
    ```
 3. Create a new branch:
    ```bash
@@ -106,17 +106,11 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgements
 
 - Thanks to [MDN Web Docs](https://developer.mozilla.org/en-US/) for providing extensive documentation and tutorials.
-- [FontAwesome](https://fontawesome.com/) for the icons used in this project.
+- [Hugeicons](https://hugeicons.com/) for the icons used in this project.
 
 ---
 
-Feel free to customize this README according to your project specifics. Let me know if you need further adjustments!
+
